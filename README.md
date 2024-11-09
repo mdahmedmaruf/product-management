@@ -32,7 +32,7 @@ Follow these steps to set up the project on your local machine.
 
     ```bash
     git clone https://github.com/mdahmedmaruf/product-management.git
-    cd product-management-system
+    cd product-management
     ```
 
 2. **Install Dependencies**
