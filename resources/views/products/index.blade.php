@@ -52,6 +52,9 @@
                 No Result Found
             </div>
         @else
+            @if(session('success'))
+            <div class="bg-green-600 text-white p-4">{{ session('success') }}</div>
+            @endif
         <!-- Product Table -->
         <table class="min-w-full bg-white">
             <thead>

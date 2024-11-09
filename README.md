@@ -6,7 +6,7 @@ This is a Laravel-based Product Management System that allows users to create, v
 
 ## Live Demo
 
-[Watch the Live Demo Video](https://example.com/live-demo) _(Replace with the actual link)_
+[Watch the Live Demo Video](https://www.awesomescreenshot.com/video/33439271?key=e82b120297d42f21196d49af31b954cf) _(Replace with the actual link)_
 
 ## Features
 
@@ -31,7 +31,7 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/product-management-system.git
+    git clone https://github.com/mdahmedmaruf/product-management.git
     cd product-management-system
     ```
 
@@ -108,11 +108,20 @@ If you'd like to seed the database with sample products, you can create a seeder
 
 ### Screenshots
 
-#### Product List
-![Product List]()
-
 #### Add New Product
-![Add New Product]()
+![Add New Product](public/screenshots/add-new-product.png)
+
+#### Edit Product
+![Product List](public/screenshots/edit-product.png)
+
+#### Product Details
+![Product List](public/screenshots/product-details.png)
+
+#### Delete Product
+![Product List](public/screenshots/delete-product.png)
+
+#### Search Product
+![Product List](public/screenshots/search-product.png)
 
 > **Note**: Replace the paths in the screenshot links with the actual paths to the images in your project.
 
