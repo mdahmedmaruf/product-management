@@ -2,7 +2,7 @@
 
 This is a Laravel-based Product Management System that allows users to create, view, update, and delete products. It includes sorting, searching, and pagination functionalities, as well as image upload and display features.
 
-![Product List Screenshot]()
+![Product List Screenshot](public/screenshots/product-list.png)
 
 ## Live Demo
 
